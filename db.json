@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "article": "T2",
+      "img": "item-2.png",
+      "name": "product-2",
+      "price": 2000.23124515,
+      "category": "Новинка",
+      "shares": "sale",
+      "sale": "15",
+      "available": true
+    },
+    {
+      "article": "T1",
+      "img": "item-1.png",
+      "name": "product-1",
+      "price": 1000.53124515,
+      "category": "В розницу",
+      "shares": "new",
+      "sale": "",
+      "available": true
+    },
+    {
+      "article": "T3",
+      "img": "item-3.png",
+      "name": "product-3",
+      "price": 3000.43124515,
+      "category":  "Оптом",
+      "shares": "sale",
+      "sale": "25",
+      "available": true
+    },
+    {
+      "article": "T4",
+      "img": "item-4.png",
+      "name": "product-4",
+      "price": 4000.13124515,
+      "category": "Хит сезона",
+      "shares": "new",
+      "sale": "",
+      "available": true
+    },
+    {
+      "article": "T5",
+      "img": "item-5.png",
+      "name": "product-5",
+      "price": 5000.83124515,
+      "category":  "Кредит",
+      "shares": "",
+      "sale": "",
+      "available": true
+    }
+  ]
+}
