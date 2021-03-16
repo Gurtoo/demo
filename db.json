@@ -50,5 +50,12 @@
       "sale": "",
       "available": true
     }
+  ],
+  "categories": [
+    {"id": "T1", "img": "item-5.png", "title": "Компьютеры", "available": true},
+    {"id": "T2", "img": "item-6.png", "title": "Ноутбуки", "available": true},
+    {"id": "T3", "img": "item-7.png", "title": "Смартфоны", "available": true},
+    {"id": "T4", "img": "item-8.png", "title": "Планшеты", "available": true},
+    {"id": "T5", "img": "item-9.png", "title": "Стиральные машины", "available": true}
   ]
 }
