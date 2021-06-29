@@ -1,48 +1,40 @@
 {
-  "data": {
-    "flCrmId": 123123,
-    "phone": 998416114,
-    "generalStatus": "PLZ_GIVE_ENUMS",
-    "employeeInfo": [
-      {
-        "ulCrmId": 2121,
-        "employeeStatus": "ACTIVE",
-        "role": "PLZ_GIVE_ENUMS",
-        "ulName": "Asd",
-        "branches": [
-          {
-            "mfoUl": "01041",
-            "nciId": 211,
-            "mfoTitle": "lgdlgfbsdfds"
-          },
-          {
-            "mfoUl": "03041",
-            "nciId": 221,
-            "mfoTitle": "efmkdmsvfvdf"
-          },
-          {
-            "mfoUl": "02041",
-            "nciId": 231,
-            "mfoTitle": "mweofrmnwov"
-          }
-        ]
-      },
-      {
-        "ulCrmId": 121,
-        "employeeStatus": "ACTIVE",
-        "role": "PLZ_GIVE_ENUMS",
-        "ulName": "DSa",
-        "branches": [
-          {
-            "mfoUl": "09041",
-            "nciId": 1,
-            "mfoTitle": "fgfdg"
-          }
-        ]
-      }
-    ]
-  },
-  "status": 0,
-  "errorMessage": "",
-  "time": 12321312321213123
+  "employeeInfo": [
+    {
+      "ulCrmId": 2121,
+      "employeeStatus": "ACTIVE",
+      "role": "PLZ_GIVE_ENUMS",
+      "ulName": "Asd",
+      "branches": [
+        {
+          "mfoUl": "01041",
+          "nciId": 211,
+          "mfoTitle": "lgdlgfbsdfds"
+        },
+        {
+          "mfoUl": "03041",
+          "nciId": 221,
+          "mfoTitle": "efmkdmsvfvdf"
+        },
+        {
+          "mfoUl": "02041",
+          "nciId": 231,
+          "mfoTitle": "mweofrmnwov"
+        }
+      ]
+    },
+    {
+      "ulCrmId": 121,
+      "employeeStatus": "ACTIVE",
+      "role": "PLZ_GIVE_ENUMS",
+      "ulName": "DSa",
+      "branches": [
+        {
+          "mfoUl": "09041",
+          "nciId": 1,
+          "mfoTitle": "fgfdg"
+        }
+      ]
+    }
+  ]
 }
